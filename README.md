@@ -1,4 +1,4 @@
-# Async Patterns
+# Async Patterns to Manage Concurrency
 
 - Parallel vs Async
 - Callbacks
